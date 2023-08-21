@@ -28,7 +28,7 @@ teaser                   : # path of fallback teaser image, e.g. "/assets/images
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 300 # 200(default)
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Ukbang"
-  avatar           : "https://github.com/Ukbang.png" 
+  avatar           : "./_images/profile/img_me.jpg" 
   bio              : "안녕하세요. 방승욱입니다."
   location         : "Republic of Korea,
                       Incheon & Seoul"
