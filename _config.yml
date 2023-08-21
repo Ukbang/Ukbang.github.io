@@ -20,7 +20,7 @@ title                    : "방승욱의 Git blog"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Ukbang"
-description              : "안녕하세요. 방승욱입니다."
+description              : "website."
 url                      : "https://Ukbang.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  name             : "Ukbang"
+  avatar           : "/_images/img_me.JPG"
+  bio              : "안녕하세요. 방승욱입니다."
   location         : "Somewhere"
   email            :
   links:
