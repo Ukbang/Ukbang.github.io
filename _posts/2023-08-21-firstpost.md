@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: pre
 title:  "Welcome to Jekyll!"
 ---
 
