@@ -105,9 +105,10 @@ analytics:
 # Site Author
 author:
   name             : "Ukbang"
-  avatar           : "/_images/img_me.JPG"
+  avatar           : "./_images/img_me.JPG"
   bio              : "안녕하세요. 방승욱입니다."
-  location         : "Republic of Korea, Incheon & Seoul"
+  location         : "Republic of Korea,   
+  Incheon & Seoul"
   email            :
   links:
     - label: "Email"
