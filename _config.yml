@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "Ukbang"
-  avatar           : "_images/profile/img_me.jpg" 
-  bio              : "안녕하세요. 방승욱입니다.2"
+  avatar           : "https://github.com/Ukbang/Ukbang.github.io/blob/master/_images/profile/img_me.jpg" 
+  bio              : "안녕하세요. 방승욱입니다."
   location         : "Republic of Korea,
                       Incheon & Seoul"
   email            : # "psw1918@naver.com"
