@@ -105,11 +105,11 @@ analytics:
 # Site Author
 author:
   name             : "Ukbang"
-  avatar           : "./_images/img_me.JPG"
+  avatar           : "https://github.com/Ukbang/Ukbang.github.io/blob/master/_images/profile/img_me.JPG"
   bio              : "안녕하세요. 방승욱입니다."
-  location         : "Republic of Korea,   
-  Incheon & Seoula"
-  email            : "psw1918@naver.com"
+  location         : "Republic of Korea,
+                      Incheon & Seoul"
+  email            : # "psw1918@naver.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
